@@ -1,0 +1,14 @@
+gateway*
+*.log
+*.exe
+*.exe~
+*.test
+debug
+.vscode
+.idea/
+.DS_Store
+.arcconfig
+test_so.so
+load-so
+purego-test
+go.sum
