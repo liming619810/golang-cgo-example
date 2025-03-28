@@ -13,8 +13,7 @@ c 语言代码，编译生成 test_so.so
 golang 语言代码，通过cgo 调用 test_so.so 
 
 需要先定义一个 loac_so.c 来加载 test_so.so
-再 通过cgao，再golang的main 中调用/Users/liming/workspace/aland/code/business-library-service/gateway/.gitignore
-
+再 通过cgao，再golang的main 中调用 do_test_so_func
 ```
 
 ### purego 
